@@ -16,7 +16,3 @@ Context: Several Indigenous communities in Mindanao face challenges involving an
 #### 3. Visual Branding Asset
 - **Engine Used:** Canva Magic Media / DALL-E 3
 - **Visual Prompt:** "Create a flat minimalist vector icon symbolizing Indigenous Peoples’ ancestral domain protection and community harmony in Mindanao. Incorporate a traditional tribal motif blended with a river, mountain silhouette, and a circle of people holding hands. Use an earth-tone palette of forest green, warm brown, and muted gold. Clean geometric shapes, modern vector style, white background, no text, and an SVG-like appearance."
-
-
-
-
